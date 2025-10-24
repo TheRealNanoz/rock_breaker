@@ -1,5 +1,5 @@
 # Rock Breaker
-This is a calculator that will determine whether or not a rock can be broken with the current loadout of the ship in star citizen
+This is a calculator built in rust that will determine whether or not a rock can be broken with the current loadout of the ship in star citizen
 
 ## Planned features:
     - calculate whether it is possible with the current loadout (laser + modules)
